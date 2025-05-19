@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/@malikk_bilal" target="blank"><img src="https://img.shields.io/twitter/follow/malikk_bilal?logo=twitter&style=for-the-badge" alt="@malikk_bilal" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Application Development**
+- 🔭 I’m currently working on **Mobile and Web Application Development**
 
-- 🌱 I’m currently learning **Android Native Development**
+- 🌱 I’m currently working in **Asp.NET(MVC & WEB API), React Js, Node Js** Tech Stacks
 
-- 👯 I’m looking to collaborate on **Desktop Applications**
+- 👯 I’m looking to collaborate on **Website Development**
 
-- 🤝 I’m looking for help with **C++/Pthon/Java projects**
+- 🤝 I’m looking for help with **C++/Python/C#/Java/Javascript projects**
 
 - 📫 Reach me at **bilalmalik746429@gmail.com**
 
