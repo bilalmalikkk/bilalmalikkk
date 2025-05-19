@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@malikk_bilal" target="blank"><img src="https://img.shields.io/twitter/follow/malikk_bilal?logo=twitter&style=for-the-badge" alt="@malikk_bilal" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile and Web Application Development**
+- 🔭 I’m currently working as a **Full Stack Developer**
 
 - 🌱 I’m currently working in **Asp.NET(MVC & WEB API), React Js, Node Js** Tech Stacks
 
